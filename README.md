@@ -1,1 +1,1 @@
-# Go-Corona
+https://sultanbaevs.github.io/Go-Corona/
